@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Таск 1. Это первый код.
         // Таск 3. Это третий код.
-        
+        // Дополнительный код от второго разработчика
         
     }
 
