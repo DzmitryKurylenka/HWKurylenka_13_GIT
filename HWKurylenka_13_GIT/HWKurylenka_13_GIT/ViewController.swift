@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Таск 1. Это первый код.
-        // Таск 2. Это второй код.
+        // Таск 3. Это третий код.
         
         
     }
