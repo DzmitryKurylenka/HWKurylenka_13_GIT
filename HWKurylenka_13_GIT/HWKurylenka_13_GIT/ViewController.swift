@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         // Дополнительный код от второго разработчика
 
         
+        
+        // Еще один код на таск 5
     }
 
 
